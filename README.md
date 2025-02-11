@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/news-app.git
+git clone https://github.com/MRameez12/News-App.git
 Open the Project in Android Studio:
 
 Launch Android Studio.
